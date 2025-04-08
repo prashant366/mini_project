@@ -1,0 +1,178 @@
+ID: 1
+Topic: Data Types
+Question: What is the size of an int data type typically in C (on most 32-bit systems)?
+A) 2 bytes
+B) 4 bytes
+C) 8 bytes
+D) 1 byte
+Answer: B
+
+ID: 2
+Topic: Pointers
+Question: What does a pointer store?
+A) Value of variable
+B) Address of variable
+C) Data type of variable
+D) Memory size
+Answer: B
+
+ID: 3
+Topic: Control Structures
+Question: Which of the following is used to exit a loop immediately?
+A) continue
+B) return
+C) exit
+D) break
+Answer: D
+
+ID: 4
+Topic: Memory Management
+Question: What is the return type of malloc() in C?
+A) int*
+B) void*
+C) float*
+D) long
+Answer: B
+
+ID: 5
+Topic: Arrays
+Question: What is the index of the first element in a C array?
+A) 0
+B) 1
+C) -1
+D) Depends on OS
+Answer: A
+
+ID: 6
+Topic: File Handling
+Question: Which function is used to open a file in C?
+A) open()
+B) fopen()
+C) read()
+D) fcreate()
+Answer: B
+
+ID: 7
+Topic: Functions
+Question: Which keyword is used to return a value from a function?
+A) send
+B) return
+C) output
+D) break
+Answer: B
+
+ID: 8
+Topic: Storage Classes
+Question: Which storage class allows a variable to retain its value between function calls?
+A) auto
+B) extern
+C) register
+D) static
+Answer: D
+
+ID: 9
+Topic: Operators
+Question: Which operator is used to access the value at the address stored in a pointer?
+A) &
+B) *
+C) ->
+D) %
+Answer: B
+
+ID: 10
+Topic: Loops
+Question: Which loop checks the condition after executing the loop body once?
+A) for
+B) while
+C) do-while
+D) switch
+Answer: C
+
+ID: 11
+Topic: Strings
+Question: Which header file is required for string handling functions?
+A) string.h
+B) strings.h
+C) stdlib.h
+D) conio.h
+Answer: A
+
+ID: 12
+Topic: Macros
+Question: What symbol is used to define a macro in C?
+A) $
+B) @
+C) #
+D) %
+Answer: C
+
+ID: 13
+Topic: Preprocessor
+Question: Which preprocessor directive is used to include standard libraries?
+A) #define
+B) #include
+C) #import
+D) #pragma
+Answer: B
+
+ID: 14
+Topic: Conditional Statements
+Question: What is the output of if(0) in C?
+A) Always true
+B) Always false
+C) Error
+D) Infinite loop
+Answer: B
+
+ID: 15
+Topic: Command-line Arguments
+Question: What are the parameters of the main() function to receive command-line arguments?
+A) int argc, char *argv[]
+B) char *argc, int argv[]
+C) void
+D) string args
+Answer: A
+
+ID: 16
+Topic: Recursion
+Question: A function calling itself is known as?
+A) Looping
+B) Nesting
+C) Recursion
+D) Inlining
+Answer: C
+
+ID: 17
+Topic: Structures
+Question: Which keyword is used to define a structure?
+A) struct
+B) union
+C) object
+D) class
+Answer: A
+
+ID: 18
+Topic: Union
+Question: In a union, all members share the same:
+A) Value
+B) Type
+C) Memory location
+D) Address space
+Answer: C
+
+ID: 19
+Topic: Type Casting
+Question: What is it called when a float is converted to an int manually?
+A) Type marking
+B) Type casting
+C) Type joining
+D) Type swapping
+Answer: B
+
+ID: 20
+Topic: Enums
+Question: What does an enum in C define?
+A) A structure
+B) A list of strings
+C) A set of named integer constants
+D) A new data type

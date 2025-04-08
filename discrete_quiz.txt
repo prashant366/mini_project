@@ -1,0 +1,178 @@
+ID: 1
+Topic: Set Theory
+Question: What is the cardinality of the power set of a set with 3 elements?
+A) 3
+B) 6
+C) 8
+D) 9
+Answer: C
+
+ID: 2
+Topic: Logic
+Question: Which logical operation is also known as implication?
+A) AND
+B) OR
+C) →
+D) NOT
+Answer: C
+
+ID: 3
+Topic: Relations
+Question: A relation is called reflexive if:
+A) a ≠ a for all a
+B) a R a for all a
+C) a R b implies b R a
+D) a R b and b R c implies a R c
+Answer: B
+
+ID: 4
+Topic: Graph Theory
+Question: A tree with n vertices has how many edges?
+A) n
+B) n - 1
+C) n + 1
+D) 2n
+Answer: B
+
+ID: 5
+Topic: Propositional Logic
+Question: What is the truth value of p∧¬pp∧¬p?
+A) True
+B) False
+C) Cannot be determined
+D) Depends on p
+Answer: B
+
+ID: 6
+Topic: Set Theory
+Question: What is A ∪ ∅ equal to?
+A) ∅
+B) A
+C) A ∩ ∅
+D) Universal Set
+Answer: B
+
+ID: 7
+Topic: Functions
+Question: A function f: A → B is onto if:
+A) Every element of A is mapped
+B) Every element of B is mapped
+C) Each element of B has a pre-image in A
+D) A and B are equal
+Answer: C
+
+ID: 8
+Topic: Counting
+Question: How many permutations are there of the word “DISCRETE”?
+A) 8!
+B) 7!
+C) 8! / 2!
+D) 8
+Answer: A
+
+ID: 9
+Topic: Graph Theory
+Question: A graph is connected if:
+A) It has at least one edge
+B) Every pair of vertices is connected
+C) It contains a cycle
+D) All vertices have even degree
+Answer: B
+
+ID: 10
+Topic: Logic
+Question: What is the contrapositive of p→qp→q?
+A) ¬p→¬q¬p→¬q
+B) q→pq→p
+C) ¬q→¬p¬q→¬p
+D) p↔qp↔q
+Answer: C
+
+ID: 11
+Topic: Combinatorics
+Question: How many ways can you choose 2 items from 5?
+A) 10
+B) 25
+C) 5
+D) 20
+Answer: A
+
+ID: 12
+Topic: Relations
+Question: Which property is NOT required for an equivalence relation?
+A) Reflexive
+B) Symmetric
+C) Transitive
+D) Antisymmetric
+Answer: D
+
+ID: 13
+Topic: Set Theory
+Question: The intersection of two disjoint sets is:
+A) Null Set
+B) Union of both sets
+C) Power set
+D) Either set
+Answer: A
+
+ID: 14
+Topic: Graph Theory
+Question: A cycle in a graph is a path that:
+A) Visits all nodes
+B) Has no repeated vertices
+C) Starts and ends at the same vertex
+D) Has maximum length
+Answer: C
+
+ID: 15
+Topic: Logic
+Question: What does the logical connective “∨” represent?
+A) NOT
+B) AND
+C) OR
+D) IMPLIES
+Answer: C
+
+ID: 16
+Topic: Functions
+Question: A function f is one-to-one if:
+A) Each element of the range has multiple pre-images
+B) Each element of the domain has multiple images
+C) Different elements in the domain map to different elements in the codomain
+D) f(a) = f(b) implies a = b
+Answer: D
+
+ID: 17
+Topic: Combinatorics
+Question: The number of subsets of a set with 4 elements is:
+A) 16
+B) 8
+C) 4
+D) 24
+Answer: A
+
+ID: 18
+Topic: Set Theory
+Question: Which of the following is always true for any set A?
+A) A ∩ A = ∅
+B) A ∪ ∅ = ∅
+C) A ∪ A = A
+D) A ⊆ ∅
+Answer: C
+
+ID: 19
+Topic: Graph Theory
+Question: A graph with no cycles is called:
+A) Complete
+B) Tree
+C) Bipartite
+D) Directed
+Answer: B
+
+ID: 20
+Topic: Logic
+Question: Which of the following is a tautology?
+A) p ∧ ¬p
+B) p ∨ ¬p
+C) p → ¬p
+D) ¬(p ∨ q)

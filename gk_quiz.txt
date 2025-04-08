@@ -1,0 +1,178 @@
+ID: 1
+Topic: Geography
+Question: What is the capital of Australia?
+A) Sydney
+B) Canberra
+C) Melbourne
+D) Perth
+Answer: B
+
+ID: 2
+Topic: History
+Question: Who was the first President of the United States?
+A) Thomas Jefferson
+B) John Adams
+C) George Washington
+D) Abraham Lincoln
+Answer: C
+
+ID: 3
+Topic: Science
+Question: What planet is known as the Red Planet?
+A) Venus
+B) Mars
+C) Jupiter
+D) Saturn
+Answer: B
+
+ID: 4
+Topic: Literature
+Question: Who wrote Romeo and Juliet?
+A) Charles Dickens
+B) Mark Twain
+C) William Shakespeare
+D) Jane Austen
+Answer: C
+
+ID: 5
+Topic: Current Affairs
+Question: Who is the current Secretary-General of the United Nations (as of 2024)?
+A) António Guterres
+B) Ban Ki-moon
+C) Kofi Annan
+D) Tedros Adhanom
+Answer: A
+
+ID: 6
+Topic: Sports
+Question: Which country won the FIFA World Cup in 2022?
+A) Argentina
+B) France
+C) Germany
+D) Brazil
+Answer: A
+
+ID: 7
+Topic: Technology
+Question: Who is the founder of Microsoft?
+A) Steve Jobs
+B) Elon Musk
+C) Bill Gates
+D) Larry Page
+Answer: C
+
+ID: 8
+Topic: Economy
+Question: Which currency is used in Japan?
+A) Yuan
+B) Dollar
+C) Yen
+D) Won
+Answer: C
+
+ID: 9
+Topic: Inventions
+Question: Who invented the light bulb?
+A) Nikola Tesla
+B) Alexander Graham Bell
+C) Albert Einstein
+D) Thomas Edison
+Answer: D
+
+ID: 10
+Topic: Environment
+Question: What gas do plants absorb from the atmosphere?
+A) Oxygen
+B) Nitrogen
+C) Carbon Dioxide
+D) Hydrogen
+Answer: C
+
+ID: 11
+Topic: Space
+Question: What is the name of the first satellite sent into space?
+A) Apollo 11
+B) Sputnik 1
+C) Voyager 1
+D) Hubble
+Answer: B
+
+ID: 12
+Topic: Mathematics
+Question: What is the value of π (pi) up to 2 decimal places?
+A) 3.33
+B) 3.12
+C) 3.14
+D) 3.22
+Answer: C
+
+ID: 13
+Topic: Indian History
+Question: Who was the first Prime Minister of independent India?
+A) Sardar Patel
+B) Mahatma Gandhi
+C) Jawaharlal Nehru
+D) Rajendra Prasad
+Answer: C
+
+ID: 14
+Topic: Biology
+Question: Which organ purifies our blood?
+A) Heart
+B) Kidney
+C) Liver
+D) Lung
+Answer: B
+
+ID: 15
+Topic: World Organizations
+Question: Where is the headquarters of the World Health Organization (WHO)?
+A) New York
+B) Paris
+C) Geneva
+D) London
+Answer: C
+
+ID: 16
+Topic: Awards
+Question: Who was the first Indian to win a Nobel Prize?
+A) C.V. Raman
+B) Rabindranath Tagore
+C) Mother Teresa
+D) Amartya Sen
+Answer: B
+
+ID: 17
+Topic: Capitals
+Question: What is the capital of Canada?
+A) Toronto
+B) Montreal
+C) Vancouver
+D) Ottawa
+Answer: D
+
+ID: 18
+Topic: Chemistry
+Question: What is the chemical symbol for Gold?
+A) Ag
+B) Gd
+C) Au
+D) Go
+Answer: C
+
+ID: 19
+Topic: Mythology
+Question: In Greek mythology, who is the king of gods?
+A) Hades
+B) Apollo
+C) Zeus
+D) Hermes
+Answer: C
+
+ID: 20
+Topic: Computers
+Question: What does CPU stand for?
+A) Central Processing Unit
+B) Computer Power Unit
+C) Central Power Unit
+D) Core Programming Unit
